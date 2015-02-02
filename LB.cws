@@ -1,0 +1,187 @@
+[Workspace Header]
+Version = 1001
+Pathname = "/c/Users/SSchmieschek/Desktop/testa/LB-src-stud-2013/LB.cws"
+CVI Dir = "/c/program files/national instruments/cvi2010"
+CVI Shared Dir = "/C/Program Files/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2010"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "LB.prj"
+Drag Bar Left = 160
+Window Top = 168
+Window Left = 375
+Window Bottom = 917
+Window Right = 1421
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win For Warnings = True
+Show Build Dialog = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 5
+Window Confinement Region Enabled = True
+MainColumnWidth = 143
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+StatusColumnWidth = 70
+
+[Project Header 0001]
+Version = 1001
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 0
+Batch Build Release = False
+Batch Build Debug = False
+Force Rebuild = False
+
+[File 0001]
+Path = "/c/Users/SSchmieschek/Desktop/testa/LB-src-stud-2013/LB1_UI.uir"
+File Type = "User Interface Resource"
+Disk Date = 3442576040
+In Projects = "1,"
+Window Top = 25
+Window Left = 6
+Window Height = 349
+Window Width = 683
+Window Z-Order = 2
+
+[File 0002]
+Path = "/c/Users/SSchmieschek/Desktop/testa/LB-src-stud-2013/LB1_UI.h"
+File Type = "Include"
+Disk Date = 3442576040
+In Projects = "1,"
+Window Top = 94
+Window Left = 42
+Window Z-Order = 3
+Source Window State = "1,0,0,0,0,0,0,0,0,92,0,0,0,0,0,25,0,0,0,0,349,779,1,0,"
+
+[File 0003]
+Path = "/c/Users/SSchmieschek/Desktop/testa/LB-src-stud-2013/main-cvi.c"
+File Type = "CSource"
+Disk Date = 3442576130
+In Projects = "1,"
+Window Top = 25
+Window Left = 6
+Window Z-Order = 1
+Source Window State = "1,33,34,34,48,48,48,0,0,215,0,0,0,0,0,78,26,0,77,4,193,523,1,0,"
+
+[File 0004]
+Path = "/c/Users/SSchmieschek/Desktop/testa/LB-src-stud-2013/simulation.c"
+File Type = "CSource"
+Disk Date = 3442488560
+In Projects = "1,"
+Window Top = 71
+Window Left = 30
+Window Z-Order = 4
+Source Window State = "1,8,8,8,29,88,29,0,0,92,0,0,0,0,0,25,208,0,11,5,349,779,1,0,"
+
+[File 0005]
+Path = "/c/Users/SSchmieschek/Desktop/testa/LB-src-stud-2013/simulation.h"
+File Type = "Include"
+Disk Date = 3442488560
+In Projects = "1,"
+Window Top = 48
+Window Left = 18
+Window Z-Order = 5
+Source Window State = "1,27,27,27,21,23,21,0,0,80,0,0,0,0,0,24,0,0,23,27,336,683,1,0,"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+External Process Path = ""
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+
+[Watch Point 1]
+Watch Expression = "n_x_points"
+Update Display Continuously = True
+Break When Value Changes = False
+Scope = "Global To Project"
+DllName = "g:\\JensLBMLecture\\exercises\\program\\LB1_UI_dbg.exe"
+
