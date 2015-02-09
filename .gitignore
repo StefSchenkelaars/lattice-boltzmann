@@ -1,0 +1,12 @@
+# Ignore the user settings file
+LB.cws
+
+# Ignore the executables
+*.exe
+
+# Ignore the builds
+cvibuild.LB
+
+# Ignore text and data files
+*.txt
+*.dat
